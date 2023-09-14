@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://aidenrireland.github.io/Portfolio/Portfolio.html](https://aidenrireland.github.io/Portfolio/Portfolio.html)
 
-- 📝 I post completed project on my instagram [https://www.instagram.com/aidenrireland/](https://www.instagram.com/aidenrireland/)
+- 📝 I post completed projects on my instagram [https://www.instagram.com/aidenrireland/](https://www.instagram.com/aidenrireland/)
 
 - You can reach me on discord at **discordapp.com/users/430487925948547072**
 

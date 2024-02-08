@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on stuff for [My Portfolio](https://aidenrireland.github.io/Portfolio)
 
-- 🌱 I’m currently learning **Java, Python, SQL, React, MongoDB**
+- 🌱 I’m currently learning **Kotlin, Python, SQL, Unit Testing,C# **
 
 - 👨‍💻 All of my projects are available at [https://aidenrireland.github.io/Portfolio/Portfolio.html](https://aidenrireland.github.io/Portfolio/Portfolio.html)
 
